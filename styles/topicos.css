@@ -28,3 +28,9 @@
   font-size: 14px;
   font-weight: 700;
 }
+
+@media screen and (min-width:1078px) {
+  .topicos {
+    padding: 3em 30vw;
+  }
+}
