@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-https://github.com/diegolimagomes/mobile-books
+https://diegolimagomes.github.io/mobile-books/
 
 Neste projeto desenvolvi a abordagem mobile-first, com três tipos de tamanhos de layout - 428px, 1024px e 1728px, correspondendo às versões mobile, tablet e desktop.
 
